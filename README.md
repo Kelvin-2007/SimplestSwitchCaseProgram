@@ -1,6 +1,6 @@
 # Notice
 Please read demo.py if you don't get it.
-If You Still don't get it then tell it in the comments I will try my best to explain it.
+If You Still don't get it then tell it down in the comments I will try my best to explain it.
 
 # Bugs
 There is nothing yet.
