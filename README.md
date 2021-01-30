@@ -1,2 +1,3 @@
-# SimplestSwitchCaseProgram
-You can setup a switch case statement in python and it's too simple
+# Notice
+Please read demo.py if you don't get it.
+Please report if there is any bugs. Thank You.
